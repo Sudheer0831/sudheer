@@ -9,7 +9,7 @@ Hi! I'm sudheer,. This repository is a curated journey through multiple challeng
 
 | Cycle No. | Title                  | Status      | Link     |
 |-----------|------------------------|-------------|----------|
-| 1         | Clean Data Champions   | ✅ Completed | [Cycle 1](#https://github.com/Sudheer0831/sudheer/blob/main/Untitled1.ipynb) |
+| 1         | Clean Data Champions   | ✅ Completed | [Cycle 1](https://github.com/Sudheer0831/sudheer/blob/main/Untitled1.ipynb) |
 | 2         | [To Be Announced]      | ⏳ Upcoming  | [Cycle 2](#) |
 | 3         | [To Be Announced]      | ⏳ Upcoming  | [Cycle 3](#) |
 | 4         | [To Be Announced]      | ⏳ Upcoming  | [Cycle 4](#) |
